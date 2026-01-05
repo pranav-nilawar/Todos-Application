@@ -32,7 +32,7 @@ To ensure data integrity, the app validates user input by checking if the input 
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/todo-list-js.git  
+git clone https://github.com/pranav-nilawar/Todos-Application.git
 
 2. Navigate to the project folder.
 
