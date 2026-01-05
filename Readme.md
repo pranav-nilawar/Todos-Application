@@ -1,7 +1,7 @@
 
 # Todos Application
 
-A sleek, functional To-Do List application built with JavaScript. This project focuses on efficient DOM manipulation, event delegation, and providing a clean user experience.
+A sleek, functional Todo List application built with JavaScript. This project focuses on efficient DOM manipulation, event delegation, and providing a clean user experience.
 ## Features
 
 - Add Tasks: Quickly add new items to your list.
